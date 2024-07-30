@@ -1,0 +1,13 @@
+material bowl/texture
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture pattern.png
+      }
+    }
+  }
+}

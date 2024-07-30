@@ -1,0 +1,15 @@
+Gazebo multi-robot simulator, version 11.10.2
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1721188330 704967567) [Msg] Waiting for master.
+(1721188330 709980013) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1721188330 709993938) [Msg] Publicized address: 192.168.50.53
+(1721188333 40680686) [Err] [Server.cc:472] Could not open file[]
+(1721188333 41789468) [Wrn] [Server.cc:381] Falling back on worlds/empty.world
+(1721188333 106923387) [Msg] Loading world file [/usr/share/gazebo-11/worlds/empty.world]
+(1721188334 389296550) Init world[default]
+(1721188334 746718137) [Wrn] [Event.cc:61] Warning: Deleting a connection right after creation. Make sure to save the ConnectionPtr from a Connect call
+(1721188372 979910251) [Wrn] [Publisher.cc:135] Queue limit reached for topic /gazebo/default/pose/local/info, deleting message. This warning is printed only once.
